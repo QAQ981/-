@@ -29,7 +29,10 @@ namespace 倒數計時器
             }
         }
 
-       
+       private void label1_Click(object sender, EventArgs e)
+{
+
+}
 
         private void buttonStart_Click(object sender, EventArgs e)
         {
